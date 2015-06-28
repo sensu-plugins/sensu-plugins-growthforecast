@@ -5,7 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-growthforecast.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-growthforecast)
-[ ![Codeship Status for sensu-plugins/sensu-plugins-growthforecast](https://codeship.com/projects/e95f4bd0-ea2a-0132-48d4-4602e60b2e9f/status?branch=master)](https://codeship.com/projects/83050)
+[![Codeship Status for sensu-plugins/sensu-plugins-growthforecast](https://codeship.com/projects/e95f4bd0-ea2a-0132-48d4-4602e60b2e9f/status?branch=master)](https://codeship.com/projects/83050)
 
 ## Functionality
 
