@@ -1,6 +1,6 @@
 ## Sensu-Plugins-growthforecast
 
-[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-growthforecast.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-growthforecast)
+[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-growthforecast.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-growthforecast)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-growthforecast.svg)](http://badge.fury.io/rb/sensu-plugins-growthforecast)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-growthforecast)
